@@ -11,3 +11,7 @@ Website pages:
     Collaborations - Information about getting together to share ideas
 
     Website link:  file:///E:/Documents/School/Classes/GIT%20215%20-%20Intorduction%20to%20Web%20Authoring/GITHUB%20Reposiory/5-Build/index.html
+
+    The HTML is semantic and validated.
+    The CSS is responsive.
+    No Javascript.
